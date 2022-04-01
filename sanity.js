@@ -1,7 +1,4 @@
-// lib/sanity.js
-import {createPreviewSubscriptionHook, createCurrentUserHook} from 'next-sanity'
-import createImageUrlBuilder from '@sanity/image-url'
-import {config} from './config'
+import {createImageUrlBuilder, createCurrentUserHook, createClient} from 'next-sanity'
 
 // lib/config.js
 export const config = {
