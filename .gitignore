@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 
-/sanity-mediumClone/node_modules
+sanity-mediumClone/node_modules
 
 # testing
 /coverage
