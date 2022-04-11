@@ -13,7 +13,7 @@ export interface Post{
             url: string;
         };
     };
-    sllug: {
+    slug: {
         current: string;
     };
     body: [object];
